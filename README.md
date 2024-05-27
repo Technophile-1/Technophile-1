@@ -1,33 +1,32 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>About Me</title>
-</head>
-<body>
-  <h1>About Me</h1>
-  <ul>
-    <li>
-      <b>Skills</b>
-      <ul>
-        <li>Salesforce development and administration</li>
-        <li>Web development</li>
-        <li>Artificial intelligence</li>
-      </ul>
-    </li>
-    <li>
-      <b>Looking to Collaborate</b>
-      <ul>
-        <li>Salesforce projects (development, automation, customization)</li>
-        <li>Web development projects</li>
-        <li>AI projects</li>
-      </ul>
-    </li>
-    </ul>
-  <h2>Fun Facts & Travel</h2>
-  <p>Add a few interesting facts or travel interests here.</p>
-</body>
-</html>
+#  About Me:
 
+  I'm currently working on:
+   * Salesforce development and administration
+   * Web development
+   * Artificial intelligence
+
+ I'm looking to collaborate on:
+   * Salesforce projects (development, automation, customization)
+   * Web development projects
+   * AI projects
+
+ I'm looking for help with:
+   * Salesforce
+   * Web development
+   * AI
+
+ I'm currently learning:
+   * The latest advancements in Salesforce development and administration
+   * Web development frameworks and technologies
+   * Concepts in artificial intelligence
+
+ Ask me about:
+   * Salesforce tips and tricks
+   * Web development best practices
+   * AI applications and its potential
+   * Balancing your interests in tech and travel
+
+⚡ Fun fact listing, music, and traveling!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sivateja1) 
