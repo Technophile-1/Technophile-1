@@ -26,7 +26,7 @@
    * AI applications and its potential
    * Balancing your interests in tech and travel
 
-⚡ Fun fact listing, music, and traveling!
+⚡ Fun fact listing music and traveling 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sivateja1) 
